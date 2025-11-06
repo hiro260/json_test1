@@ -1,0 +1,10 @@
+{
+  "name": "Hiro",
+  "age": 62,
+  "is_married": true,
+  "children": ["Ken", "Mika"],
+  "address": {
+    "city": "Boise",
+    "state": "Idaho"
+  }
+}
